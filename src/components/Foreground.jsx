@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import Cards from "./Cards";
-import { data } from "react-router-dom";
+
 
 function Foreground() {
   const ref = useRef(null);
